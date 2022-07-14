@@ -1,0 +1,20 @@
+-----------------------------------------------> Frontend <------------------------------------------------------
+
+HTML =>
+    * Significa linguagem de marcacao de hiperTexto. linguagem de base para a internet para ser traduzido por navegadores e maquinas.
+    
+
+Oque são Tags? =>
+    *Tags sao etiquetas usadaos para informar ao navegador como deve ser apresentado o site.
+
+    *Quando escrevemos tags no HTML elas serao interpretadas pelo navegador.
+
+    EXEMPLO:
+            <code></code>
+    *Cada tag tem um proposito:
+        -Link;
+        -Paragrafo;
+        -Listagem;
+        -Etc;
+        
+        
